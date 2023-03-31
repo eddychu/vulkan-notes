@@ -23,6 +23,9 @@ For device memory with the VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT bit set, the host
 
 
 
+
+
+
 There a different types of memory in Vulkan.
 
 ## Device Local Memory
